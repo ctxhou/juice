@@ -1,5 +1,5 @@
 {
-  "name": "juice",
+  "name": "@ctxhou/juice",
   "version": "4.3.1",
   "description": "Inlines css into html source",
   "bin": "bin/juice",
@@ -33,8 +33,7 @@
     "cross-spawn": "^5.1.0",
     "deep-extend": "^0.5.1",
     "mensch": "^0.3.3",
-    "slick": "^1.12.2",
-    "web-resource-inliner": "^4.2.1"
+    "slick": "^1.12.2"
   },
   "devDependencies": {
     "batch": "0.5.3",
